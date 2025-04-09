@@ -10,7 +10,7 @@ I am learning HTML, CSS, and JS from multiple sources
 
 ## day3
 
-![day2 screen print](./docs/images/day2.png)
+![day3 screen print](./docs/images/day3.png)
 
 
 
