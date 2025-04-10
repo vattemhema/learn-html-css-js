@@ -14,6 +14,14 @@ I am learning HTML, CSS, and JS from multiple sources
 
  press ctrl + / = invisible line
 
+![day4 screen print](./docs/images/day4.png)
+
+
+
+
+
+
+
 
 
 
